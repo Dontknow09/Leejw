@@ -1,0 +1,126 @@
+{
+  "@@locale": "sv",
+  "@@author": "ItsTiazzz",
+  "dashboard_title": "Instrumentpanel",
+  "dashboard_goto": "Gå till Instrumentpanelen",
+  "flashcards_title": "Flashcards",
+  "flashcards_goto": "Gå till Flashcards",
+  "lessons_title": "Lektioner",
+  "lessons_goto": "Gå till dina Lektioner",
+  "lessons_lesson": "Lektion",
+  "lessons_lesson_this": "Denna Lektion",
+  "lessons_lesson_this_": "denna Lektion",
+  "settings_title": "Inställningar",
+  "settings_goto": "Gå till Inställningar",
+  "settings_accessibility": "Tillgänglighet",
+  "settings_toggle_mode": "Byt till {mode} läge",
+  "@settings_toggle_mode": {
+    "placeholders": {
+      "mode": {
+        "type": "String",
+        "example": "Dark"
+      }
+    }
+  },
+  "settings_change": "Ändra {change}",
+  "@settings_change": {
+    "placeholders": {
+      "change": {
+        "type": "String",
+        "example": "Locale"
+      }
+    }
+  },
+  "settings_report_bugs": "Raportera Buggar",
+  "voced_title": "Ordförrådsredigerare",
+  "voced_goto": "Gå till Ordförrådsredigerare",
+  "voced_data": "Ordförrådsdata",
+  "voced_meaning": "Betydelse",
+  "voced_meanings": "Betydelser",
+  "voced_translation": "Översättning",
+  "voced_translations": "Översättningar",
+  "voced_addition": "Tillägg",
+  "voced_additions": "Tillägg",
+  "voced_word": "Ord",
+  "voced_words": "Ord",
+  "voced_word_this": "Detta Ord",
+  "voced_word_this_": "detta Ord",
+  "voced_word_id": "Ord ID",
+  "voced_word_ids": "Ord IDn",
+  "generic_tags": "Taggar",
+  "generic_theme": "Tema",
+  "generic_dark": "Mörkt",
+  "generic_light": "Ljust",
+  "generic_info": "Info",
+  "generic_value": "Värde",
+  "generic_locale": "Språk",
+  "generic_locale_example": "Språk (e.g., en, de, fr)",
+  "generic_title": "Titel",
+  "generic_description": "Beskrivning",
+  "generic_commas": "Commatecken",
+  "generic_entries": "Inlägg",
+  "generic_field": "Fält",
+  "generic_field_this": "Detta fält",
+  "generic_field_this_": "detta fält",
+  "error_invalid": "Ogiltig!",
+  "error_invalid_": "Ogilig",
+  "error_enter_value": "Var god ange ett värde",
+  "error_enter_locale": "Var god ange ett språk",
+  "error_required": "{object} krävs!",
+  "@error_required": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "This field"
+      }
+    }
+  },
+  "error_invalid_format": "Ogiltigt {value} format",
+  "@error_invalid_format": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "locale"
+      }
+    }
+  },
+  "warning_delete": "Är du säker på att du vill ta bort {object}?",
+  "@warning_delete": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "this lesson"
+      }
+    }
+  },
+  "hint_swipe_to_remove": "Svep för att ta bort",
+  "hint_separate": "Separera {object} med {separators}",
+  "@hint_separate": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "Tags"
+      },
+      "separators": {
+        "type": "String",
+        "example": "commas"
+      }
+    }
+  },
+  "action_reload_lessons": "Ladda om Lektioner",
+  "action_open_locale_settings": "Öppna inställningar",
+  "action_confirm": "Godkänn",
+  "action_click_refresh": "Klicka för att uppdatera",
+  "action_delete": "Ta bort",
+  "action_delete_forever": "Ta bort för alltid",
+  "action_create_new": "Skapa ny {object}",
+  "@hint_separate": {
+    "placeholders": {
+      "object": {
+        "type": "String",
+        "example": "Lesson"
+      }
+    }
+  },
+  "snackbar_locale_definement": "Språkinställningarna definieras för närvarande av dina enhetsinställningar!"
+}
